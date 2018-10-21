@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "J:\\PhoneGapApps\\BaseTemplate\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "outputFile": "J:\\PhoneGapApps\\BT06\\basetemplate\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "J:\\PhoneGapApps\\BaseTemplate\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "J:\\PhoneGapApps\\BT06\\basetemplate\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "4,2,3",
                         "startColumns": "4,4,4",
